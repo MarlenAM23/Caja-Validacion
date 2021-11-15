@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ControlColor
 {
-    public class Class1
+    //Separado para mejor control
+    public enum tipoEstado
     {
+        SinValidar,
+        Valido,
+        Invalido
     }
+
 }

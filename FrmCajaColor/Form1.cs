@@ -19,9 +19,8 @@ namespace FrmCajaColor
 
         private void colores1_Load(object sender, EventArgs e)
         {
-            if ()
+            if (true)
             {
-
             }
         }
     }

@@ -43,13 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Colores.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="Colores.Designer.cs">
       <DependentUpon>Colores.cs</DependentUpon>
     </Compile>
+    <Compile Include="Estado.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
