@@ -1,0 +1,8 @@
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\ControlColor\bin\Debug\ControlColor.dll
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\ControlColor\bin\Debug\ControlColor.pdb
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\ControlColor\obj\Debug\ControlColor.csproj.AssemblyReference.cache
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\ControlColor\obj\Debug\ControlColor.Colores.resources
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\ControlColor\obj\Debug\ControlColor.csproj.GenerateResource.cache
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\ControlColor\obj\Debug\ControlColor.csproj.CoreCompileInputs.cache
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\ControlColor\obj\Debug\ControlColor.dll
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\ControlColor\obj\Debug\ControlColor.pdb

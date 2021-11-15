@@ -1,0 +1,13 @@
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\FrmCajaColor\bin\Debug\FrmCajaColor.exe.config
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\FrmCajaColor\bin\Debug\FrmCajaColor.exe
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\FrmCajaColor\bin\Debug\FrmCajaColor.pdb
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\FrmCajaColor\obj\Debug\FrmCajaColor.csproj.AssemblyReference.cache
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\FrmCajaColor\obj\Debug\FrmCajaColor.Form1.resources
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\FrmCajaColor\obj\Debug\FrmCajaColor.Properties.Resources.resources
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\FrmCajaColor\obj\Debug\FrmCajaColor.csproj.GenerateResource.cache
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\FrmCajaColor\obj\Debug\FrmCajaColor.csproj.CoreCompileInputs.cache
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\FrmCajaColor\obj\Debug\FrmCajaColor.exe
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\FrmCajaColor\obj\Debug\FrmCajaColor.pdb
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\FrmCajaColor\bin\Debug\ControlColor.dll
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\FrmCajaColor\bin\Debug\ControlColor.pdb
+C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\FrmCajaColor\obj\Debug\FrmCajaColor.csproj.CopyComplete

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmCajaColor", "FrmCajaColor\FrmCajaColor.csproj", "{E067BB1F-A6E6-4AD6-9D5B-FEEBC8CC94D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlColor", "ControlColor\ControlColor.csproj", "{EF343231-041E-4E09-9417-4AEE362847BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E067BB1F-A6E6-4AD6-9D5B-FEEBC8CC94D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E067BB1F-A6E6-4AD6-9D5B-FEEBC8CC94D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E067BB1F-A6E6-4AD6-9D5B-FEEBC8CC94D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E067BB1F-A6E6-4AD6-9D5B-FEEBC8CC94D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF343231-041E-4E09-9417-4AEE362847BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF343231-041E-4E09-9417-4AEE362847BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF343231-041E-4E09-9417-4AEE362847BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF343231-041E-4E09-9417-4AEE362847BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4FAE11A-9B67-4E7E-84FC-6C563703FBD2}
+	EndGlobalSection
+EndGlobal
