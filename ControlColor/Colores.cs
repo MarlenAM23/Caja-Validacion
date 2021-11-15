@@ -10,50 +10,35 @@ using System.Windows.Forms;
 
 namespace ControlColor
 {
-    public enum tipoEstado
-    {
-        SinValidar,
-        Valido,
-        Invalido    
-    }
 
     public partial class Colores : UserControl
     {
         public event EventHandler cambio;
-        private tipoEstado colore;
-        private String coloree;
+        private tipoEstado estado; 
 
 
-        public String Coloree
-        {
+        public tipoEstado Estado {
             get
             {
-                return coloree;
-            }
-            set
-            {
-                coloree = value;
-            }
-        }
-        public tipoEstado Colore {
-            get
-            {
-                return colore;
+                return estado;
             }
             set{
 
-                colore = value;
+                estado = value;
 
+                //No se valida
                 if (value==tipoEstado.SinValidar)
                 {
-                    txtCajita.BackColor = Color.Black;
-                    txtCajita.ForeColor = Color.White;
+                    txtCajita.BackColor = Color.White;
+                    txtCajita.ForeColor = Color.Black;
                 }
-                else if (value==tipoEstado.SinValidar)
+                //No valido
+                else if (value==tipoEstado.Invalido)
                 {
                     txtCajita.BackColor = Color.OrangeRed;
                     txtCajita.ForeColor = Color.Red;
                 }
+                //valido
                 else
                 {
                     txtCajita.BackColor = Color.GreenYellow;
@@ -73,8 +58,15 @@ namespace ControlColor
 
         private void txtCajita_TextChanged(object sender, EventArgs e)
         {
-            coloree = txtCajita.Text;
+            //Cambio manual del estado a valido
+            //cambia aqui el estado
+            Estado = tipoEstado.Valido;
+
             cambio?.Invoke(this, null);
+        }
+        private void label1_Click(object sender, EventArgs e)
+        {
+           
         }
     }
 

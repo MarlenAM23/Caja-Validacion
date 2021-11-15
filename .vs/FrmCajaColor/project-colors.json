@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef343231-041e-4e09-9417-4aee362847bc": {
+      "ProjectGuid": "ef343231-041e-4e09-9417-4aee362847bc",
+      "DisplayName": "ControlColor",
+      "ColorIndex": 0
+    },
+    "e067bb1f-a6e6-4ad6-9d5b-feebc8cc94d8": {
+      "ProjectGuid": "e067bb1f-a6e6-4ad6-9d5b-feebc8cc94d8",
+      "DisplayName": "FrmCajaColor",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

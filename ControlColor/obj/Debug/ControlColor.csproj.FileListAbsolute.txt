@@ -6,3 +6,11 @@ C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\
 C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\ControlColor\obj\Debug\ControlColor.csproj.CoreCompileInputs.cache
 C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\ControlColor\obj\Debug\ControlColor.dll
 C:\Users\Aluca\Documents\Visual Studio 2019\Mis Proyectos\Unidad 2\FrmCajaColor\ControlColor\obj\Debug\ControlColor.pdb
+C:\Users\kleon\gitlab\Caja-Validacion\ControlColor\bin\Debug\ControlColor.dll
+C:\Users\kleon\gitlab\Caja-Validacion\ControlColor\bin\Debug\ControlColor.pdb
+C:\Users\kleon\gitlab\Caja-Validacion\ControlColor\obj\Debug\ControlColor.csproj.AssemblyReference.cache
+C:\Users\kleon\gitlab\Caja-Validacion\ControlColor\obj\Debug\ControlColor.Colores.resources
+C:\Users\kleon\gitlab\Caja-Validacion\ControlColor\obj\Debug\ControlColor.csproj.GenerateResource.cache
+C:\Users\kleon\gitlab\Caja-Validacion\ControlColor\obj\Debug\ControlColor.csproj.CoreCompileInputs.cache
+C:\Users\kleon\gitlab\Caja-Validacion\ControlColor\obj\Debug\ControlColor.dll
+C:\Users\kleon\gitlab\Caja-Validacion\ControlColor\obj\Debug\ControlColor.pdb
